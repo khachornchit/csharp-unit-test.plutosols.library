@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\unittest.plutosols.libraries.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\unittest.plutosols.libraries.pdb
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\obj\Release\unittest.plutosols.libraries.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\obj\Release\unittest.plutosols.libraries.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\obj\Release\unittest.plutosols.libraries.dll
+D:\OneDrive\Projects\Tests\unittest.plutosols.libraries\obj\Release\unittest.plutosols.libraries.pdb
