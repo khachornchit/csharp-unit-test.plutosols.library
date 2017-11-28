@@ -48,13 +48,19 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Human\HumanTest.cs" />
+    <Compile Include="DuckTyping\DuckTypingTests.cs" />
     <Compile Include="MultipleInheritance\MultipleInheritanceTests.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\PlutoLibrary\PlutoLibrary.csproj">
+      <Project>{921825af-b7aa-4fd7-9ec0-f0458c72bf53}</Project>
+      <Name>PlutoLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
